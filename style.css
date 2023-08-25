@@ -202,33 +202,31 @@ html, body {
 .linkedin-link {
     text-decoration: none;
     color: #0073B1;
-    position: relative;
 }
 
 .linkedin-user {
     font-family: 'Open Sans', sans-serif;
     font-size: 13px;
-    margin-left: 5px;
-    position: absolute;
-    top: 35%;
+    margin-left: 1px;
 }
 
 .bi-github {
     color: #000000;
     margin-top: 10px;
-    margin-left: 100px;
 }
 
 .github-link {
     text-decoration: none;
     color: #000000;
-    position: relative;
 }
 
 .github-user {
     font-family: 'Open Sans', sans-serif;
     font-size: 13px;
-    margin-left: 5px;
-    position: absolute;
-    top: 35%;
+    margin-left: 1px;
+}
+
+.link {
+    display: inline-block;
+    width: 100px;
 }
